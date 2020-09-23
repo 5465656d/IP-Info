@@ -1,5 +1,5 @@
 ## IP Info
-IP Info is a ~~prototype~~ command line tool that can take in IPv4 or IPv6 addresses and return some known information from public sources. Right now it's a simple cli-based wrapper for the GeoLite2 or GeoIP2 database. Feed IP Info a valid IP address and it will query the database for information and return it to you in a standard format to be consumed however the user needs. 
+IP Info is a **prototype** command line tool that can take in IPv4 or IPv6 addresses and return some known information from public sources. Right now it's a simple cli-based wrapper for the GeoLite2 or GeoIP2 database. Feed IP Info a valid IP address and it will query the database for information and return it to you in a standard format to be consumed however the user needs. 
 
 ### API documentation
 The API is not considered stable at this time. 
